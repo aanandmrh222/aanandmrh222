@@ -25,3 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aanandmrh222&show_icons=true&locale=en" alt="aanandmrh222" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aanandmrh222&" alt="aanandmrh222" /></p>
+
+### Snake-Eating My Contribution Graph:🐍📈
+<img src="https://raw.githubusercontent.com/bhanupriya-art/bhanupriya-art/output/snake.svg" alt="Snake animation" />
