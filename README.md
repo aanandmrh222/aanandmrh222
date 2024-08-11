@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aanand5440" target="blank"><img src="https://img.shields.io/twitter/follow/aanand5440?logo=twitter&style=for-the-badge" alt="aanand5440" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, React**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **aanandmrh222@gmail.com**
 
